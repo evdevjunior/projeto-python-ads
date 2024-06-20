@@ -1,4 +1,4 @@
-# EXERCICIO 1 DE 4 CALCULO DE JUROS PELA QUANTIDADE DE PARCELA
+# EXERCICIO 1 DE 4 CALCULO DE JUROS PELA QUANTIDADE DE PARCELA  #
 
 print('Bem-vindo a loja do Evandro Nascimento')
 valor_pedido = float(input('Entre com o valor do pedido: '))    # recebe o valor do pedido convertendo para float
