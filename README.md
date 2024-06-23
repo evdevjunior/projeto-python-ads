@@ -1,1 +1,1 @@
-# Trabalho da Fcauldade de Lógica de Programação e Algoritimos
+# Trabalho da Faculdade ADS de Lógica de Programação e Algoritimos
