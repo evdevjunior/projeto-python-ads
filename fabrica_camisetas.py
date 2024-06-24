@@ -79,6 +79,6 @@ def frete ():   # FUNÇÃO DO VALOR DO FRETE
     return valor_f
 
 
-total = (escolha_modelo() * num_camisetas()) + frete() # CALCULA O VALOR TOTAL DO MODELO COM A QUANTIDADE MAIS O FRETE
+total = (escolha_modelo() * num_camisetas()) + frete() # CALCULA O VALOR TOTAL DO MODELO COM A QUANTIDADE E O FRETE
 
 print("Total: R$ %.2f" % total)
